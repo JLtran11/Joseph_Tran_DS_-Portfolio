@@ -2,7 +2,7 @@
 Data science portfolio
 
 
-# [Capstone_project_2- Loan default predictor](https://github.com/JLtran11/Capstone_project_2)
+# [Capstone-project-2-Loan-default-predictor](https://github.com/JLtran11/Capstone_project_2)
 The repository contains all the files associated with the second capstone project: Loan default prediction.
 
 - Reduced large column space of anonymized features (755) via feature selection methods to create 3 data sets for modeling.
