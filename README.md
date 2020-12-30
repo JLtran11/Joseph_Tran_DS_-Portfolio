@@ -1,4 +1,4 @@
-# Joseph_Tran_DS_-Portfolio
+# Joseph_Tran_DS Portfolio
 Data science portfolio
 
 
