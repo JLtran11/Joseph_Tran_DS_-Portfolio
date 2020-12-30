@@ -10,8 +10,8 @@ The repository contains all the files associated with the second capstone projec
 - Optimized logistic regression, adaboost, random forest, and xgboost using pipeline and random search to find optimal model
 - Selected xgboost model for further tuning to optimize for reducing false negatives, reduce over-fitting to train data, and robustness   to imbalanced target class.
 
-![](https://github.com/JLtran11/Joseph_Tran_DS_-Portfolio/blob/main/images/pca.png)
-![](https://github.com/JLtran11/Joseph_Tran_DS_-Portfolio/blob/main/images/target.png)
+![](/images/pca.png)
+![](/images/target.png)
 
 
 # [Capston-Project-1-Music-recommendation-system](https://github.com/JLtran11/Capston-Project-1-Music-recommendation-system)
@@ -24,5 +24,5 @@ The repository contains all the files associated with the first capstone project
 - Utilized ALS and Lightfm packages to build two recommenders for comparison with popular (most common) recommendations.
 - Models evaluated with AUC for performance comparison : ALS: 0.916, popularity: 0.875, lightfm: 0.937
 
-![](https://github.com/JLtran11/Joseph_Tran_DS_-Portfolio/blob/main/images/loglisten.PNG)
-![](https://github.com/JLtran11/Joseph_Tran_DS_-Portfolio/blob/main/images/listen_count.PNG)
+![](/images/loglisten.PNG)
+![](/images/listen_count.PNG)
