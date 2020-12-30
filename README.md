@@ -24,3 +24,16 @@ The repository contains all the files associated with the first capstone project
 - Models evaluated with AUC for performance comparison : ALS: 0.916, popularity: 0.875, lightfm: 0.937
 
 
+# Springboard Data Science Career Track 
+- Collection of projects demonstrating knowledge of various statistics and machine learning fundamentals
+
+- [Working with json files](https://github.com/JLtran11/json_file_miniproject)
+- [Interacting with API's](https://github.com/JLtran11/API_mini_project)
+- [Frequentist statisics - A](https://github.com/JLtran11/Frequentist-a-mini-project)
+- [Frequentist statistics - B](https://github.com/JLtran11/Frequentist-b-mini-project)
+- [Bootstrap sampling](https://github.com/JLtran11/Bootstrap-sampling-mini-project)
+- [Linear Regression](https://github.com/JLtran11/Linear_Regression_miniproject)
+- [Logistic Regression](https://github.com/JLtran11/Logistic_Regression_miniproject)
+- [Naive Bayes](https://github.com/JLtran11/Naive_Bayes_miniproject)
+- [Clustering](https://github.com/JLtran11/Clustering_miniproject)
+- [SQL](https://github.com/JLtran11/SQL-Project)
