@@ -1,5 +1,4 @@
-# Joseph Tran
-Data science portfolio
+
 
 
 # [Capstone-project-2-Loan-default-predictor](https://github.com/JLtran11/Capstone_project_2)
