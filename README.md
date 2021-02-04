@@ -1,7 +1,7 @@
 
 # [Joseph Tran Data Analyst Resume](https://github.com/JLtran11/Career_files/blob/main/JTran_data_analyst_resume.pdf)
 
-# [Capstone-project-2-Loan-default-predictor](https://github.com/JLtran11/Capstone_project_2)
+# [Capstone-project-2-Loan-default-predictor](https://github.com/JLtran11/Capstone_Project_two)
 The repository contains all the files associated with the second capstone project: Loan default prediction.
 
 - Reduced large column space of anonymized features (755) via feature selection methods to create 3 data sets for modeling.
