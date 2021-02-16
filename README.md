@@ -1,5 +1,5 @@
 
-# [Joseph Tran Data Analyst Resume](https://github.com/JLtran11/Career_files/blob/main/JTran_data_analyst_resume.pdf)
+# [Joseph Tran Data Analyst Resume](https://github.com/JLtran11/Career_files/blob/main/Joseph_Tran_Data_Analyst_Resume.pdf)
 
 # [Capstone-project-2-Loan-default-predictor](https://github.com/JLtran11/Capstone_Project_two)
 The repository contains all the files associated with the second capstone project: Loan default prediction.
